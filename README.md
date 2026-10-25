@@ -36,7 +36,7 @@ This project analyzes GDP growth, total unemployment, and youth unemployment acr
 - `Global_Unemployment_and_Economic_Analysis.ipynb` — Jupyter Notebook containing the analysis, statistical results, and visualizations.
 
 ## 📚 Data Source
-[World Bank Open Data](https://data.worldbank.org/)
+[World Bank Open Data](https://databank.worldbank.org/source/world-development-indicators)
 
 ## 👤 Author
 Itishree sahu
