@@ -39,4 +39,4 @@ This project analyzes GDP growth, total unemployment, and youth unemployment acr
 [World Bank Open Data](https://databank.worldbank.org/source/world-development-indicators)
 
 ## 👤 Author
-Itishree sahu
+Itishree Sahu
